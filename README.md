@@ -16,22 +16,33 @@ This project implements a real-time sunglass detection system using TensorFlow, 
 
 ## **Usage**
 
-1. **Clone the repository:**
+1. **Clone the repository**
    ```bash
    git clone https://github.com/sanket-164/Sunglass-Detection-Transfer-Learning.git
    ```
 
-2. **Navigate to the project directory:**
+2. **Navigate to the project directory**
    ```bash
    cd sunglass-detection
    ```
 
-3. **Install dependencies:**
+3. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Run the project:**
+4. **Download and add the dataset in project directory**
+   ```bash
+   https://www.kaggle.com/datasets/amol07/sunglasses-no-sunglasses/
+   ```
+   
+5. **Run the notebook in local machine or on google colab**
+   ```bash
+   https://colab.research.google.com/drive/1dU80vTdYNsZnLWiY3lQbCem7cxtRDxZd?usp=sharing
+   ```
+6. **If you have used google colab make sure to download model's file**
+
+7. **Run the app.py**
    ```bash
    python app.py
    ```
